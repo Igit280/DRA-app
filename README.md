@@ -28,6 +28,6 @@ DRA-app is deployed to Heroku and GAE
 [DRA stage 1 testing]
 [DRA stage 2 testing]
 [DRA Stage 3 testing if it works]
-
+[DRA Stage 4 testing with the command]
 ```
 
